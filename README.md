@@ -20,3 +20,4 @@ there are three ways to enable CORS
 1.In middleware using a named policy or default policy
 2.Using endpoint routing.
 3.With the [EnableCors] attribute.
+---
